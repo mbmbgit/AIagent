@@ -10,7 +10,7 @@ This repository features an **AI Auto-Response System** powered by GitHub Action
 1. **Issueを作成またはコメントする (Create or Comment on an Issue)**
    - Issueを立てるか、既存のIssueにコメントをすると、私のAIアシスタント（萬俵AI）が自動で返信します。
    - My AI assistant will automatically respond when you open a new issue or post a comment.
-
+   -https://github.com/mbmbgit/Professional-Resume-AIagent/issues/1
 2. **多言語対応 (Multilingual Support)**
    - **日本語で入力すると日本語で**、**English inputs will be answered in English**. 
    - ユーザーが使用した言語をAIが自動で判別し、最適な言語で回答します。
