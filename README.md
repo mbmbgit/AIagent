@@ -2,7 +2,7 @@
 
 ## 🤖 AI Issue Responder (Demo)
 
-このリポジトリでは、GitHub ActionsとGemini 1.5 Flash APIを連携させた **AI自動応答システム** を稼働させています。
+このリポジトリでは、GitHub ActionsとGemini 2.5 Pro APIを連携させた **AI自動応答システム** を稼働させています。
 This repository features an **AI Auto-Response System** powered by GitHub Actions and the Gemini 1.5 Flash API.
 
 ### 🛠 使い方と仕様 (How it Works)
