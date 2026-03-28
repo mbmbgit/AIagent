@@ -11,7 +11,7 @@
 
 | Category | Tech Stack |
 | :--- | :--- |
-| **Data Engineering** | `ETL Design` `Data Cleansing (Pandas/NumPy)` `Data Normalization` `Format Conversion` |
+| **Data Engineering** | `ELT Design` `Data Cleansing (Pandas/NumPy)` `Data Normalization` `Format Conversion` |
 | **Languages** | `Python 3` (Main) `Google Apps Script` `SPARQL` `VB.NET` |
 | **Cloud & Infra** | **Google Cloud** (`Compute Engine` `BigQuery` `Cloud Functions`) `Linux (Ubuntu)` `Windows Server` |
 | **DevOps & Auto** | `GitHub Actions` (CI/CD, IssueOps) `Docker` `Task Scheduler` `Cron` |
