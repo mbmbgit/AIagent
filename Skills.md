@@ -19,7 +19,7 @@
 | :--- | :--- |
 | **言語・FW** | Python (FastAPI), JavaScript (React), Go, C++, HTML/CSS, VB.NET, GAS |
 | **インフラ・DB** | GCP, Docker, Linux (Ubuntu), Windows Server, Selenium, GitHub Actions, IssueOps |
-| **AI・ツール** | 生成AI活用 (Gemini 1.5 Flash, ChatGPT, Claude Code), Octoparse, UiPath, Flet, Windsurf |
+| **AI・ツール** | 生成AI活用 (Gemini 1.5 Flash, ChatGPT, Claude Code), Octoparse, UiPath, Flet |
 | **資格・知識** | ITパスポート, LPIC レベル1相当の知識 |
 
 ---
